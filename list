@@ -1,12 +1,2 @@
-pcsupport.lenovo.com##.ProductPromotion
-pcsupport.lenovo.com###confirmit-feedback
-pcsupport.lenovo.com##.mySlides
-pcsupport.lenovo.com##.lenaBotWindow
-pcsupport.lenovo.com##.upgrade_warranty_button
-pcsupport.lenovo.com##.upgrade-addpns-compare tbody
-pcsupport.lenovo.com##.survey_content
-pcsupport.lenovo.com##.warranty-status__extras
-pcsupport.lenovo.com##footer
-pcsupport.lenovo.com##.upgrade-addpns-compare
-pcsupport.lenovo.com##.dialog-title
-pcsupport.lenovo.com##.current-indicator-box > .indicator-wrapper > .indicator-section
+pcsupport.lenovo.com##div.kindly-reminder:first-child
+pcsupport.lenovo.com###app-psp-warranty > div.psp-warranty__body:last-child > div > div.psp-warranty__content > div.psp-warranty__display:first-child > div > div.psp-warranty__content:first-child > div.psp-warranty__status:first-child > div.warranty-status__body > div > div.upgrade-addpns-compare:last-child
